@@ -4,7 +4,7 @@ BLOCK LIST
 
 - Environment
 
-stone-block
+stone-block [DONE] {REVIEW}
 dirt-block
 grass-block
 

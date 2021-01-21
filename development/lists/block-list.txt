@@ -1,0 +1,18 @@
+PLANNING
+
+BLOCK LIST
+
+- Environment
+
+stone-block
+dirt-block
+grass-block
+
+- Ores
+
+copper-ore
+silver-ore
+iron-ore
+gold-ore
+diamond-ore
+ruby-ore

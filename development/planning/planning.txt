@@ -1,0 +1,9 @@
+ARCTON
+
+PLANNING
+
+- Info
+
+About: A 2d side-scroller RPG video game. You have the option to create a world in the home menu, and the game randomly generates a world. Then you log into it. Most items in the world will be interactive. There will be bosses, dimensions, villages, and other structures.
+
+Character Goals: The goal of the game is to defeat the many bosses. Once you do that, you have "beaten" the game. You still have the option to keep playing in your world once you have beaten the game.
